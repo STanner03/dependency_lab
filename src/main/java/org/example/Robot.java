@@ -1,6 +1,6 @@
 package org.example;
 
-public class Robot {
+public class Robot implements Attacker{
 
     //Instance variables (HAS A)
     public String name;
